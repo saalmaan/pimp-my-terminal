@@ -3,11 +3,6 @@
 ![alt tag](terminal.png)
 
 1. Install oh-my-zsh
-
-```
-curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
-```
-
 2. Import Solarized theme into terminal. Open terminal preference -> profile -> import -> select theme from and make it default
 
 3. Download remy.zsh-theme and copy that into zsh theme folder.

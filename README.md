@@ -31,7 +31,10 @@ ZSH_THEME="remy"
 ```
 chmod 755 batcharge.py
 ```
-7) restart terminal app.
+
+7) Download powerline fonts and install them
+
+8) restart terminal app.
 
 ####Credits
 Thanks Remy for inspiring<br>
